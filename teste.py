@@ -6,3 +6,4 @@ peso = 50
 geral = idade * peso
 print (nome)
 list(1,2,3)
+type(nome)
